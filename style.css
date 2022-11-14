@@ -42,3 +42,6 @@ a:visited, a:active, a:focus-within, a {
     color: white;
     text-decoration: none;
 }
+hr {
+    width: 100%;
+}
